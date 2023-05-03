@@ -2,6 +2,7 @@
 
 
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/62e7059499d94574b9b87722f4f1be63)](https://app.codacy.com/gh/AkashCYB/Flight-Booking-System-JavaServlets_App?utm_source=github.com&utm_medium=referral&utm_content=AkashCYB/Flight-Booking-System-JavaServlets_App&utm_campaign=Badge_Grade)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/issues)
